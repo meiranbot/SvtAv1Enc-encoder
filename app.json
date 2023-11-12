@@ -9,9 +9,9 @@
     "compress",
     "bot"
   ],
-  "success_url": "https://t.me/linux_repo",
-  "website": "https://t.me/Discovery_Updates",
-  "repository": "https://github.com/GitXBot101/Rulf-Encoder",
+  "success_url": "https://t.me/OM_links",
+  "website": "https://t.me/OM_links",
+  "repository": "https://github.com/meiranbot/SvtAv1Enc-encoder",
   "env": {
     "OWNER": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
